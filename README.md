@@ -7,6 +7,7 @@
 🐱 **There are very few things that I like more than cats**  
 
 - My portfolio **https://mfdportfolio.netlify.app/**
+- My LinkedIn **https://www.linkedin.com/in/muhammet-furkan-demir-mfd/**
 - How to reach me **furkandemir@ug.bilkent.edu.tr**
 
 
